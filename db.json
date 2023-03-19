@@ -1,0 +1,391 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "title": "QUIZ 13",
+      "desc": "description of quiz 13",
+      "questions": [
+        {
+          "id": 1678875953736,
+          "title": "q5",
+          "type": "Single Select",
+          "options": [
+            {
+              "id": 1678962627562,
+              "value": "This is the anser",
+              "isCorrect": true
+            },
+            {
+              "id": 1678962633964,
+              "value": "THis is not the answer",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswers": [
+            "This is the anser"
+          ]
+        },
+        {
+          "id": 1678854355011,
+          "title": "Q5",
+          "type": "Multi Select",
+          "options": [
+            {
+              "id": 1678854361166,
+              "value": "Q2",
+              "isCorrect": true
+            },
+            {
+              "id": 1678854372078,
+              "value": "Q3",
+              "isCorrect": true
+            },
+            {
+              "id": 1678854375103,
+              "value": "Q4",
+              "isCorrect": false
+            },
+            {
+              "id": 1678854377895,
+              "value": "Q5",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswers": [
+            "Q2",
+            "Q3",
+            "Q5"
+          ]
+        },
+        {
+          "id": 1678726232854,
+          "title": "Which of the following is an SUV",
+          "type": "Dropdown",
+          "options": [
+            {
+              "id": 1678681265991,
+              "value": "Maruti Alto",
+              "isCorrect": false
+            },
+            {
+              "id": 1678766352177,
+              "value": "Swift",
+              "isCorrect": true
+            },
+            {
+              "id": 1678961406866,
+              "value": "Tata Harrier",
+              "isCorrect": true
+            },
+            {
+              "id": 1678961412331,
+              "value": "Nano",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswers": [
+            "Swift",
+            "Tata Harrier"
+          ]
+        },
+        {
+          "id": 1678726223552,
+          "title": "Who is the father of India",
+          "type": "Single Select",
+          "options": [
+            {
+              "id": 1678961335172,
+              "value": "Jawaharlal Nehru",
+              "isCorrect": false
+            },
+            {
+              "id": 1678961355356,
+              "value": "Indira Gandhi",
+              "isCorrect": false
+            },
+            {
+              "id": 1678961362428,
+              "value": "Mahatma Gandhi",
+              "isCorrect": true
+            },
+            {
+              "id": 1678961367972,
+              "value": "Narendra Modi",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswers": [
+            "Mahatma Gandhi"
+          ]
+        },
+        {
+          "id": 1678681259046,
+          "title": "Which of the following is an SUV",
+          "type": "Multi Select",
+          "options": [
+            {
+              "id": 1678681265991,
+              "value": "Maruti Alto",
+              "isCorrect": false
+            },
+            {
+              "id": 1678766352177,
+              "value": "Swift",
+              "isCorrect": true
+            },
+            {
+              "id": 1678961406866,
+              "value": "Tata Harrier",
+              "isCorrect": true
+            },
+            {
+              "id": 1678961412331,
+              "value": "Nano",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswers": [
+            "Swift",
+            "Tata Harrier"
+          ]
+        }
+      ],
+      "correctAnswers": [
+        {
+          "id": 1678875953736,
+          "correctAnswers": [
+            "This is the anser"
+          ]
+        },
+        {
+          "id": 1678854355011,
+          "correctAnswers": [
+            "Q2",
+            "Q3",
+            "Q5"
+          ]
+        },
+        {
+          "id": 1678726232854,
+          "correctAnswers": [
+            "Swift",
+            "Tata Harrier"
+          ]
+        },
+        {
+          "id": 1678726223552,
+          "correctAnswers": [
+            "Mahatma Gandhi"
+          ]
+        },
+        {
+          "id": 1678681259046,
+          "correctAnswers": [
+            "Swift",
+            "Tata Harrier"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1678872506511,
+      "title": "New Quiz",
+      "desc": "This is a new Quiz",
+      "questions": [
+        {
+          "id": 1678872972080,
+          "title": "Q4",
+          "type": "Multi Select",
+          "options": [
+            {
+              "id": 1678872977689,
+              "value": "o1",
+              "isCorrect": false
+            },
+            {
+              "id": 1678872979812,
+              "value": "o2",
+              "isCorrect": false
+            },
+            {
+              "id": 1678872981749,
+              "value": "o3",
+              "isCorrect": false
+            },
+            {
+              "id": 1678872984710,
+              "value": "o4",
+              "isCorrect": false
+            },
+            {
+              "id": 1678872988645,
+              "value": "o5",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": 1678872868345,
+          "title": "Why this question",
+          "type": "Dropdown",
+          "options": [
+            {
+              "id": 1678872879145,
+              "option": "",
+              "isCorrect": true,
+              "value": "Option 2"
+            },
+            {
+              "id": 1678872883178,
+              "option": "",
+              "isCorrect": false,
+              "value": "Option 3"
+            },
+            {
+              "id": 1678872890213,
+              "option": "",
+              "isCorrect": false,
+              "value": "Option 1"
+            }
+          ]
+        },
+        {
+          "id": 1678872847084,
+          "title": "Q2",
+          "type": "Multi Select",
+          "options": [
+            {
+              "id": 1678872852500,
+              "option": "",
+              "isCorrect": false,
+              "value": "Option 1"
+            },
+            {
+              "id": 1678872858008,
+              "option": "",
+              "isCorrect": true,
+              "value": "Op2"
+            },
+            {
+              "id": 1678872861133,
+              "option": "",
+              "isCorrect": false,
+              "value": "op3"
+            }
+          ]
+        },
+        {
+          "questionId": 1678872493943,
+          "title": "Question",
+          "type": "Multi Select",
+          "options": []
+        }
+      ],
+      "correctAnswers": [
+        {
+          "id": 1678872972080
+        },
+        {
+          "id": 1678872868345
+        },
+        {
+          "id": 1678872847084
+        },
+        {}
+      ]
+    },
+    {
+      "id": 1678875386366,
+      "title": "When the quiz",
+      "desc": "Thisisthedescription",
+      "questions": [
+        {
+          "id": 1678875405105,
+          "title": "Quiz",
+          "type": "Multi Select",
+          "options": [
+            {
+              "id": 1678875411155,
+              "value": "!2",
+              "isCorrect": false
+            },
+            {
+              "id": 1678875413837,
+              "value": "32",
+              "isCorrect": false
+            },
+            {
+              "id": 1678875416266,
+              "value": "32",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 1678875361261,
+          "title": "Heq",
+          "type": "Multi Select",
+          "options": [
+            {
+              "id": 1678875369266,
+              "value": "1",
+              "isCorrect": false
+            },
+            {
+              "id": 1678875371949,
+              "value": "2",
+              "isCorrect": true
+            },
+            {
+              "id": 1678875373952,
+              "value": "3",
+              "isCorrect": false
+            },
+            {
+              "id": 1678875378476,
+              "value": "4",
+              "isCorrect": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cf4cdabb-bec3-4709-88c4-79fe4207ef4d",
+      "title": "Test Quiz",
+      "desc": "This is a test Quiz",
+      "questions": [
+        {
+          "id": "53def283-4c89-4646-a30b-92ac6bfe2f56",
+          "title": "QUestion 1",
+          "type": "Multi Select",
+          "options": [
+            {
+              "id": 1679057154121,
+              "value": "Opion 1",
+              "isCorrect": false
+            },
+            {
+              "id": 1679057157985,
+              "value": "op2",
+              "isCorrect": false
+            },
+            {
+              "id": 1679057160900,
+              "value": "op4",
+              "isCorrect": false
+            },
+            {
+              "id": 1679057165095,
+              "value": "op5",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswers": [
+            "op5"
+          ]
+        }
+      ]
+    }
+  ]
+}
